@@ -131,7 +131,7 @@ class Message_music{
     }
 
     cambiar_mensaje(mensaje){
-        this.label_message.textContent = mensaje
+        this.label_message.innerHTML = mensaje
     }
 }
 
@@ -198,7 +198,7 @@ class Player{
                 title:'Until I Found You',
                 message:`Dicen que las canciones son para darles un significado unico dependiendo de quien la eschuche y pues cuando yo la escucho de alguna manera tu vienes a mi mente 
                esta cancion para mi retrata la parte de mi vida en la que no queria estar con nadie de una manera romantica por que mi corazon estaba lastimado demasiado fuerte y aun haci cuando me sentia en la mas oscuro
-               tu me sacaste de lo mas hondo me hiciste  volver a confiar en alguien mas (tu&#x2764;) y entregar algo que apenas habia sanado por que sabia que lo cuidarian bien y no me equivoque en nada al respecto&#x2764;   `
+               tu me sacaste de lo mas hondo me hiciste  volver a confiar en alguien mas (tu&#x2764;) y entregar algo que apenas habia sanado por que sabia que lo cuidarian bien y no me equivoque en nada al respecto &#x2764;   `
             },
             {
                 path:"audios/Youre The One That.mp3",
