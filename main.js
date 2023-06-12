@@ -204,7 +204,7 @@ class Player{
                 path:"audios/Youre The One That.mp3",
                 title:'Youre The One That',
                 img:'url("imagens/grease.png")',
-                message:"Tu diras por que esta cancion,pero esta cancion para mi al escucharla me recuerda el momento en el que me di cuenta que sentia algo por ti en ese momento no sabia exactamente que era pero sabia que era algo muy bonito y en su momento lo confundi con admiracion pero conforme a el paso de los dias me di cuenta que no era eso que era algo mas, pero tenia miedo de aceptar el sentimiento por que pense que no seria correspondido pero cuando me di cuenta que si lo era con ciertas acciones tuyas mi cara emanaba una felicidad que trate de esconderlas hasta el momento adecuado y lo encontre &#x2764; "
+                message:"Tu diras por que esta cancion,pero esta cancion para mi al escucharla me recuerda el momento en el que me di cuenta que sentia algo por ti en ese momento no sabia exactamente que era pero sabia que era algo muy bonito y en su momento lo confundi con admiracion pero conforme a el paso de los dias me di cuenta que no era eso que era algo mas, pero tenia miedo de aceptar el sentimiento por que pense que no seria correspondido pero cuando me di cuenta que si lo era con ciertas acciones tuyas mi cara emanaba una felicidad que trate de esconderlas hasta el momento adecuado y lo encontre &#x2764;"
             },
         ];
         this.play_btn = document.getElementById('btn_play');
