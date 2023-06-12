@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Titulo</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="login.css">
+        <link rel="icon" href="icono.ico">
+        <link rel="stylesheet" href="player.css">
+    </head>
+    <body>
+        <main>
+            <audio src="" id="current_audio"></audio>
+            <section id="login_screen">
+                <div id="login_inputs">
+                    <label>Escribe la contraseña</label>
+                    <input type="text"id="login_input">
+                </div>
+                <button id="btn_login"><img src="iconos/autobot.png"></button>
+            </section>
+            <section id="player_screen">
+
+                <p id="information">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum possimus earum itaque vel cumque saepe a similique officiis corrupti labore dolor ratione, error iusto nam aperiam, numquam deleniti dicta obcaecati.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ea quod facilis, cum temporibus dignissimos ratione, tenetur dolor tempore vel placeat repudiandae itaque cupiditate voluptas nam. Officia ipsum saepe consequatur.
+                </p>
+                <div id="information_content">
+                    <button id="btn_info">
+                        <img src="iconos/interrogatorio.png">
+                    </button>
+                    
+                </div>
+                <div id="player">
+                    <div id="player_controls">
+                        <button id="btn_prev"><img src="iconos/prev.png"></button>
+                        <button id="btn_play"><img src="iconos/play.png" id="btn_play_img"></button>
+                        <button id="btn_next"><img src="iconos/next.png"></button>
+                    </div>
+                    <div id="player_duration">
+                        <div id="duration_times">
+                            <h3 id="min_actual_label">00:00</h3>
+                            <h3 id="min_total_label">00:00</h3>
+                        </div>
+                        
+                        <input type="range" id="duration">
+                        <h1 id="player_title"></h1>
+                    </div>
+                    <p id="player_message">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, natus dolor provident fugiat reprehenderit quisquam tenetur odio dolores eveniet culpa odit saepe placeat! Similique corrupti ut reprehenderit quaerat perferendis.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quo eaque id dignissimos ea. Cupiditate, quae! Illo repellendus, alias iure placeat rerum nulla velit temporibus id amet similique eaque beatae?
+
+                    </p>
+                </div>
+            </section>
+        </main>
+        
+        <script src="main.js"></script>
+    </body>
+</html>
