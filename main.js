@@ -4,7 +4,7 @@ class LoginScreen{
         this.btn_login = document.getElementById('btn_login');
         this.init_events();
         this.audio_error = new Audio("audios/fondo/error.mp3");
-        this.keyword = 'Dulcecito de leche';
+        this.keyword = 'dulcecito de leche';
         this.login_input = document.getElementById('login_input');
     }
     init_events(){
