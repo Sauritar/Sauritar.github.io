@@ -190,7 +190,7 @@ class Player{
                 title:'Rude',
                 message:`Esta cancion de alguna manera me recuerda la vez que viniste a hablar con mi mama yo se que casi no se parece por el echo de que en la cancion
                 no les dan el permiso de estar juntos pero lo que hace que esta cancion me recuerde a ti esq cuando tu viniste a hablar con mi mama te mirabas un poquito nervioso 
-                y la cancion retrata de alguna manera el como apesar de estar latente la opcion de que no les permitan estar junton aun haci el se arriesga apor estar con la persona que quiere & # x2665;  `
+                y la cancion retrata de alguna manera el como apesar de estar latente la opcion de que no les permitan estar junton aun haci el se arriesga apor estar con la persona que quiere &#x2764;  `
             },
             {
                 path:"audios/Until I Found You.mp3",
@@ -198,13 +198,13 @@ class Player{
                 title:'Until I Found You',
                 message:`Dicen que las canciones son para darles un significado unico dependiendo de quien la eschuche y pues cuando yo la escucho de alguna manera tu vienes a mi mente 
                esta cancion para mi retrata la parte de mi vida en la que no queria estar con nadie de una manera romantica por que mi corazon estaba lastimado demasiado fuerte y aun haci cuando me sentia en la mas oscuro
-               tu me sacaste de lo mas hondo me hiciste  volver a confiar en alguien mas (tu & # x2665;) y entregar algo que apenas habia sanado por que sabia que lo cuidarian bien y no me equivoque en nada al respecto & # x2665;  `
+               tu me sacaste de lo mas hondo me hiciste  volver a confiar en alguien mas (tu &#x2764;) y entregar algo que apenas habia sanado por que sabia que lo cuidarian bien y no me equivoque en nada al respecto &#x2764;   `
             },
             {
                 path:"audios/Youre The One That.mp3",
                 title:'Youre The One That',
                 img:'url("imagens/grease.png")',
-                message:" Tu diras por que esta cancion,pero esta cancion para mi al escucharla me recuerda el momento en el que me di cuenta que sentia algo por ti en ese momento no sabia exactamente que era pero sabia que era algo muy bonito y en su momento lo confundi con admiracion pero conforme a el paso de los dias me di cuenta que no era eso que era algo mas, pero tenia miedo de aceptar el sentimiento por que pense que no seria correspondido pero cuando me di cuenta que si lo era con ciertas acciones tuyas mi cara emanaba una felicidad que trate de esconderlas hasta el momento adecuado y lo encontre & # x2665;  "
+                message:" Tu diras por que esta cancion,pero esta cancion para mi al escucharla me recuerda el momento en el que me di cuenta que sentia algo por ti en ese momento no sabia exactamente que era pero sabia que era algo muy bonito y en su momento lo confundi con admiracion pero conforme a el paso de los dias me di cuenta que no era eso que era algo mas, pero tenia miedo de aceptar el sentimiento por que pense que no seria correspondido pero cuando me di cuenta que si lo era con ciertas acciones tuyas mi cara emanaba una felicidad que trate de esconderlas hasta el momento adecuado y lo encontre  &#x2764; "
             },
         ];
         this.play_btn = document.getElementById('btn_play');
